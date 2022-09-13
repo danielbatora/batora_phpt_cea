@@ -24,7 +24,7 @@ second_bne_rln_injury_hypocalcemia,0.011,min_max,p,,,,,0.005,0.015
 second_bne_hypocalcemia,0.01,min_max,p,,,,,0.005,0.015
 bne_hypocalcemia_only,0.011,min_max,p,,,,,0.006,0.017
 bne_rln_injury_plus_hypocalcemia,0.011,min_max,p,,,,,0.006,0.017
-bne_rln_injury,0.005,min_max,p,,,,,0.0025,0.075
+bne_rln_injury,0.01,min_max,p,,,,,0.0025,0.075
 fp_rln_injury,0.005,min_max,p,,,,,0.003,0.008
 une_rln_injury,0.005,min_max,p,,,,,0.003,0.008
 bne_no_complications_terminal_util,0.99,fixed,util,,,,,,
